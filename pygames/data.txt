@@ -1,0 +1,5 @@
+ welcome to join the project
+ hello world
+[' welcome to join the project\n', ' hello world']
+[' welcome to join the project\n', ' hello world\n', "[' welcome to join the project\\n', ' hello world']"]
+[]

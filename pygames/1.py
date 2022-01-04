@@ -1,0 +1,11 @@
+a=open('new.txt','r')
+l=a.readlines()
+s=str(l)
+n=input("enter word:")
+b=s.replace(n,'')
+print(b)
+a.close()
+
+b=open('data.txt','a')
+s=str(l)
+b.write('\n'+s)
